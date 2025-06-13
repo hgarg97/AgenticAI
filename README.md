@@ -21,8 +21,6 @@ This repo serves as a practical learning hub where I implement projects and conc
 
 Each folder in the root directory corresponds to a specific **topic**, **concept**, or **project** from the course.
 
-````
-
 Each folder includes:
 
 - Code files (`.py`, `.ipynb`)
@@ -34,12 +32,12 @@ Each folder includes:
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/hgarg97/AgenticAI.git
    cd AgenticAI
-````
 
-````
+   ```
 
 2. **Create and activate virtual environment**
 
@@ -84,4 +82,3 @@ This is a **learning-in-public** repo and will be updated regularly as I progres
 If you're also exploring Agentic AI or want to discuss a project, feel free to connect:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hgarg97/)
-````
