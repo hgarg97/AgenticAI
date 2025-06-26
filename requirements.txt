@@ -5,3 +5,11 @@ langchain-openai
 langchain-groq
 langchain-core
 langchain-community
+defusedxml
+pypdf
+bs4
+pymupdf
+arxiv
+wikipedia
+langchain_huggingface
+sentence-transformers

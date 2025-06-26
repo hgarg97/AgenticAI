@@ -1,2 +1,6 @@
 venv/
 .env
+2-LangchainBasics/2.4-VectorDatabase/FAISS/today's class faiss index/index.faiss
+2-LangchainBasics/2.4-VectorDatabase/FAISS/today's class faiss index/index.pkl
+2-LangchainBasics/2.1-DataIngestion/records.xml
+2-LangchainBasics/2.2-DataTransformer/records.xml
