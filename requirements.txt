@@ -13,3 +13,4 @@ arxiv
 wikipedia
 langchain_huggingface
 sentence-transformers
+faiss-cpu
