@@ -20,3 +20,4 @@ youtube_search
 langgraph
 chromadb
 ipykernel
+langchain_tavily
