@@ -21,3 +21,5 @@ langgraph
 chromadb
 ipykernel
 langchain_tavily
+duckduckgo-search
+yfinance
